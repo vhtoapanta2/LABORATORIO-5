@@ -29,7 +29,7 @@ OBJETIVOS ESPECIFICOS:
 
 • Conocer y poner en practica el teorema de Thévenin.
 
-• Comprobar experimentalmente el Teorema de Superposición mediante la resolución de un circuito mediante mediciones y la simulacion en el sofware tinkercad.
+• Comprobar experimentalmente el Teorema mediante la resolución de un circuito mediante mediciones y la simulacion en el sofware tinkercad.
 
 • Resolver el circuito mediante mediciones y calculos que ayuden a un mejor desarrollo de la actividad
 
@@ -105,7 +105,7 @@ Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circui
 ![image](https://user-images.githubusercontent.com/117923992/210915708-5c1d6076-c8f2-4b50-9537-743ee6be39d6.png)
 ![image](https://user-images.githubusercontent.com/117923992/210916302-fa6da470-7361-4b54-98b4-989ec9e41c6b.png)
 
-![image](https://user-images.githubusercontent.com/117923992/210915804-7f31350b-27d6-449b-87a3-0788625b0c7d.png)
+![image](https://user-images.githubusercontent.com/117923992/210925739-eaf9e90a-c83a-443c-8970-ae88ec698050.png)
 
 ![image](https://user-images.githubusercontent.com/117923992/210916034-da1a6897-124f-493f-9bfb-04a0b6f9ac5f.png)
 ![image](https://user-images.githubusercontent.com/117923992/210916176-882b7e89-6fcf-4495-b524-3410ede2993c.png)
@@ -138,6 +138,8 @@ Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida l
 ![image](https://user-images.githubusercontent.com/117923992/210920115-3e6e8c4f-9335-4c6c-a7a7-56239943c502.png)
 
       VIDEO:
+
+LINK: https://youtu.be/eK5Mov41L7Q
 
       CONCLUSIONES:
 
